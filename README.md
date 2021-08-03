@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JohnnyInnamorato
 - 👀 I’m interested in ... Coding apps and developing a startup company.
 - 🌱 I’m currently learning ... Kotlin, Java, and Python.
-- 💞️ I’m looking to collaborate on ... Developing certain apps/.
+- 💞️ I’m looking to collaborate on ... Developing certain apps.
 - 📫 How to reach me ... email - Jinnamorato44@gmail.com
 
 <!---
